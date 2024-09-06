@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\eduardoos.comAspire.ApiService.props" />
+</Project>

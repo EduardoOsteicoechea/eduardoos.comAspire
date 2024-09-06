@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\eduardoos.comAspire.ApiService.props" />
+</Project>
